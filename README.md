@@ -20,6 +20,8 @@ Lowest Wicket Victory: Which team won by taking the minimum wickets?
 Prolific Season: Identifying the season with the highest number of matches played.
 Team Excellence: Which team has won the most number of matches across all seasons?
 Toss and Match Outcomes: Analyzing the impact of the toss on match outcomes, including a probability plot for match-winning tosses and a look into each team's performance after winning the toss.
+![image](https://github.com/santasish/IPL_EDA_Project/assets/112464173/9e61c7b6-7ba3-43ff-9e44-082768450e10)
+
 Batting First vs. Batting Second: How have teams performed when batting first, and how have they fared when chasing?
 
 ![image](https://github.com/santasish/GL_Projects_and_EDA/assets/112464173/1485869c-a1a0-49b3-a227-a51223190e09)
@@ -29,7 +31,7 @@ Distribution of Wins among Top 5 Winning Teams (Batting Second)
 ![image](https://github.com/santasish/GL_Projects_and_EDA/assets/112464173/ed61ef7d-12ca-42a0-9c50-b9b8d128241d)
 ![image](https://github.com/santasish/GL_Projects_and_EDA/assets/112464173/875656a5-0140-4f41-8b1f-8be9b38733a2)
 
-
+I have also done a compaative analysis on the left handed opening batsmen David Warner and Shikhar Dhawan.
 
 
 The IPL dataset has provided an opportunity to channel my passion for cricket into a project that not only fuels my curiosity but also enhances my analytical skills. In the realm of Twenty20 franchise cricket, analytics plays a crucial role in team strategies, player selections, and match outcomes. This project has been a stepping stone in my journey of data analytics and grasping the intricacies of cricket through data.
